@@ -16,19 +16,19 @@ This project uses Python’s built-in **turtle** module to draw:
 
 ---
 
-## 📁 Repository Structure
-Naruto-Turtle-Art/
-│
-├── naruto.py              # Main Turtle drawing script
-├── README.md              # Project documentation
+## 📁 Repository Structure 
+Naruto_Face/
+naruto.py   #main file
+Readme.md   #documantion Files
 ---
 
 ## 🚀 How to Run
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/eisaalsa555/Naruto_Face.git
-cd Naruto-Turtle-Art
+git clone
+https://github.com/eisaalsa555/Naruto_Face.git
+cd Naruto_Face
 ```
 2. Run the Script
 ```
