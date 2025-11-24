@@ -91,4 +91,5 @@ Full Stack Developer • Ethical Hacker
 📬 Contact
 
 For suggestions or collaboration:
-Email / Instagram / Telegram (optional)
+Email / eisaqadri0@gmail.com
+Instagram / https://www.Instagram.com/eisa_bey
