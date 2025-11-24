@@ -17,9 +17,10 @@ This project uses Python’s built-in **turtle** module to draw:
 ---
 
 ## 📁 Repository Structure
-
-Naruto-Turtle-Art/ │ ├── naruto.py              # Main Turtle drawing script ├── README.md              # Project documentation └── assets/                # (Optional) reference images
-
+Naruto-Turtle-Art/
+│
+├── naruto.py              # Main Turtle drawing script
+├── README.md              # Project documentation
 ---
 
 ## 🚀 How to Run
