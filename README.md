@@ -26,13 +26,13 @@ Naruto-Turtle-Art/ │ ├── naruto.py              # Main Turtle drawing sc
 
 ### 1. Clone the Repository
 ```bash
-git clone YOUR_REPO_LINK_HERE
+git clone https://github.com/eisaalsa555/Naruto_Face.git
 cd Naruto-Turtle-Art
-
+```
 2. Run the Script
-
+```
 python naruto.py
-
+```
 A turtle window will open and start drawing Naruto’s face.
 
 
@@ -41,9 +41,9 @@ A turtle window will open and start drawing Naruto’s face.
 📦 Requirements
 
 No external libraries required — only Python’s built-in:
-
+```
 import turtle
-
+````
 
 ---
 
@@ -75,15 +75,6 @@ Drawing speed
 
 ---
 
-🖼 Output Preview
-
-Add your final drawing screenshot here (optional):
-
-[ image goes here ]
-
-
----
-
 👤 Author
 
 Mohd Eisa
@@ -93,18 +84,6 @@ Full Stack Developer • Ethical Hacker
 🐙 GitHub: https://github.com/eisaalsa555
 
 ⭐ Don’t forget to star the repository!
-
-
----
-
-⚡ Notes for Admin / Repo Setup
-
-Update repo link before publishing
-
-Add preview image
-
-Add a license if needed
-
 
 
 ---
